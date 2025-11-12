@@ -136,7 +136,7 @@ void window_size_callback(GLFWwindow* window, int w, int h)
 
     glViewport(0, 0, width, height);
 
-    matProj = glm::perspective(glm::radians(60.0f), width/(float)height, 2.0f, 8.0f);
+    matProj = glm::perspective(glm::radians(60.0f), width/(float)height, 1.0f, 800.0f);
 }
 
 void key_callback(GLFWwindow* window, int key, int scancode, int action, int mods)
@@ -336,7 +336,11 @@ int main()
 
     std::shared_ptr<Mesh> bunny = std::make_shared<Mesh>();
     bunny->init("models/bunny_normal.obj", texblinnShader);
+    
+    std::shared_ptr<Mesh> house = std::make_shared<Mesh>();
+    bunny->init("models/plane.obj", texblinnShader);
 
+    
     //std::shared_ptr<Mesh> box = std::make_shared<Mesh>();
     // box->init("models/Box_normal.obj", normalblinnShader);
 
@@ -347,17 +351,21 @@ int main()
     std::shared_ptr<Node> teapotNode = std::make_shared<Node>();
     std::shared_ptr<Node> cubeNode = std::make_shared<Node>();
     std::shared_ptr<Node> bunnyNode = std::make_shared<Node>();
+    std::shared_ptr<Node> houseNode = std::make_shared<Node>();
     //std::shared_ptr<Node> boxNode = std::make_shared<Node>();
     
     //----------------------------------------------------
     // Build the tree
     teapotNode->addMesh(teapot);
     cubeNode->addMesh(cube, glm::mat4(1.0), glm::mat4(1.0), glm::scale(glm::vec3(2.0f, 0.25f, 1.5f)));
+
+    houseNode->addMesh(house, glm::mat4(1.0), glm::mat4(1.0), glm::scale(glm::vec3(0.005f, 0.005f, 0.005f)));
     bunnyNode->addMesh(bunny, glm::mat4(1.0), glm::mat4(1.0), glm::scale(glm::vec3(0.005f, 0.005f, 0.005f)));
     //boxNode->addMesh(box, glm::mat4(1.0), glm::rotate(glm::radians(45.0f), glm::vec3(0.0f, 1.0f, 0.0f)));
 
     cubeNode->addChild(teapotNode, glm::translate(glm::vec3(-1.2f, 0.5f, 0.0f)));
     cubeNode->addChild(bunnyNode, glm::translate(glm::vec3(1.0f, 1.5f, 0.5f)));
+    cubeNode->addChild(houseNode, glm::translate(glm::vec3(1.0f, 1.5f, 0.5)));
     // cubeNode->addChild(teapotNode, glm::translate(glm::vec3(0.0f, 1.0f, 0.0f)), glm::rotate(glm::radians(45.0f), glm::vec3(0.0f, 1.0f, 0.0f)));
     
     //----------------------------------------------------

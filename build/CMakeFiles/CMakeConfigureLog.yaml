@@ -77,7 +77,6 @@ events:
         - "C:\\Users\\MC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\MC\\.dotnet\\tools"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Program Files\\Azure Data Studio\\bin"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Git\\cmd"
         - "C:\\ghcup\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
@@ -110,7 +109,7 @@ events:
       The output was:
       0
       MSBuild version 17.14.23+b0019275e for .NET Framework
-      Build started 12/11/2025 12:17:19 μμ.
+      Build started 12/11/2025 1:51:04 μμ.
       
       Project "C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\4.2.0-rc1\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -139,7 +138,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.20
+      Time Elapsed 00:00:00.60
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -266,7 +265,6 @@ events:
         - "C:\\Users\\MC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\MC\\.dotnet\\tools"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Program Files\\Azure Data Studio\\bin"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Git\\cmd"
         - "C:\\ghcup\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
@@ -533,7 +531,6 @@ events:
         - "C:\\Users\\MC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\MC\\.dotnet\\tools"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Program Files\\Azure Data Studio\\bin"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Git\\cmd"
         - "C:\\ghcup\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
@@ -655,7 +652,6 @@ events:
         - "C:\\Users\\MC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\MC\\.dotnet\\tools"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Program Files\\Azure Data Studio\\bin"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Git\\cmd"
         - "C:\\ghcup\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
@@ -807,7 +803,6 @@ events:
         - "C:\\Users\\MC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\MC\\.dotnet\\tools"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Program Files\\Azure Data Studio\\bin"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Git\\cmd"
         - "C:\\ghcup\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
@@ -929,7 +924,6 @@ events:
         - "C:\\Users\\MC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\MC\\.dotnet\\tools"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Program Files\\Azure Data Studio\\bin"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Git\\cmd"
         - "C:\\ghcup\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
@@ -1005,7 +999,6 @@ events:
         - "C:\\Users\\MC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\MC\\.dotnet\\tools"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Program Files\\Azure Data Studio\\bin"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Git\\cmd"
         - "C:\\ghcup\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
@@ -1038,7 +1031,7 @@ events:
       The output was:
       0
       MSBuild version 17.14.23+b0019275e for .NET Framework
-      Build started 12/11/2025 12:17:20 μμ.
+      Build started 12/11/2025 1:51:04 μμ.
       
       Project "C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\4.2.0-rc1\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -1067,7 +1060,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:00.59
+      Time Elapsed 00:00:00.57
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -1337,7 +1330,6 @@ events:
         - "C:\\Users\\MC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\MC\\.dotnet\\tools"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Program Files\\Azure Data Studio\\bin"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Git\\cmd"
         - "C:\\ghcup\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
@@ -1504,7 +1496,6 @@ events:
         - "C:\\Users\\MC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\MC\\.dotnet\\tools"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Program Files\\Azure Data Studio\\bin"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Git\\cmd"
         - "C:\\ghcup\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
@@ -1526,8 +1517,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-333tas"
-      binary: "C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-333tas"
+      source: "C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-gmh74f"
+      binary: "C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-gmh74f"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -1536,33 +1527,33 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-333tas'
+        Change Dir: 'C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-gmh74f'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_cf2be.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_6021a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.14.23+b0019275e for .NET Framework
-        Build started 12/11/2025 12:17:21 μμ.
+        Build started 12/11/2025 1:51:05 μμ.
         
-        Project "C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-333tas\\cmTC_cf2be.vcxproj" on node 1 (default targets).
+        Project "C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gmh74f\\cmTC_6021a.vcxproj" on node 1 (default targets).
         PrepareForBuild:
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-333tas\\Debug\\".
-          Creating directory "cmTC_cf2be.dir\\Debug\\cmTC_cf2be.tlog\\".
+          Creating directory "C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gmh74f\\Debug\\".
+          Creating directory "cmTC_6021a.dir\\Debug\\cmTC_6021a.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_cf2be.dir\\Debug\\cmTC_cf2be.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_cf2be.dir\\Debug\\cmTC_cf2be.tlog\\unsuccessfulbuild".
+          Creating "cmTC_6021a.dir\\Debug\\cmTC_6021a.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_6021a.dir\\Debug\\cmTC_6021a.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_cf2be.dir\\Debug\\\\" /Fd"C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-333tas\\cmTC_cf2be.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_6021a.dir\\Debug\\\\" /Fd"C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gmh74f\\cmTC_6021a.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35220 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_cf2be.dir\\Debug\\\\" /Fd"C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-333tas\\cmTC_cf2be.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_6021a.dir\\Debug\\\\" /Fd"C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gmh74f\\cmTC_6021a.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-333tas\\Debug\\cmTC_cf2be.exe" /INCREMENTAL /ILK:"cmTC_cf2be.dir\\Debug\\cmTC_cf2be.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-333tas/Debug/cmTC_cf2be.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-333tas/Debug/cmTC_cf2be.lib" /MACHINE:X64  /machine:x64 cmTC_cf2be.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_cf2be.vcxproj -> C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-333tas\\Debug\\cmTC_cf2be.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gmh74f\\Debug\\cmTC_6021a.exe" /INCREMENTAL /ILK:"cmTC_6021a.dir\\Debug\\cmTC_6021a.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-gmh74f/Debug/cmTC_6021a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-gmh74f/Debug/cmTC_6021a.lib" /MACHINE:X64  /machine:x64 cmTC_6021a.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_6021a.vcxproj -> C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gmh74f\\Debug\\cmTC_6021a.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_cf2be.dir\\Debug\\cmTC_cf2be.tlog\\unsuccessfulbuild".
-          Touching "cmTC_cf2be.dir\\Debug\\cmTC_cf2be.tlog\\cmTC_cf2be.lastbuildstate".
-        Done Building Project "C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-333tas\\cmTC_cf2be.vcxproj" (default targets).
+          Deleting file "cmTC_6021a.dir\\Debug\\cmTC_6021a.tlog\\unsuccessfulbuild".
+          Touching "cmTC_6021a.dir\\Debug\\cmTC_6021a.tlog\\cmTC_6021a.lastbuildstate".
+        Done Building Project "C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gmh74f\\cmTC_6021a.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
@@ -1608,8 +1599,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-6awof2"
-      binary: "C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-6awof2"
+      source: "C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-o693w0"
+      binary: "C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-o693w0"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -1619,33 +1610,33 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-6awof2'
+        Change Dir: 'C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-o693w0'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_b7dda.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_04592.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.14.23+b0019275e for .NET Framework
-        Build started 12/11/2025 12:17:22 μμ.
+        Build started 12/11/2025 1:51:06 μμ.
         
-        Project "C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6awof2\\cmTC_b7dda.vcxproj" on node 1 (default targets).
+        Project "C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o693w0\\cmTC_04592.vcxproj" on node 1 (default targets).
         PrepareForBuild:
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6awof2\\Debug\\".
-          Creating directory "cmTC_b7dda.dir\\Debug\\cmTC_b7dda.tlog\\".
+          Creating directory "C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o693w0\\Debug\\".
+          Creating directory "cmTC_04592.dir\\Debug\\cmTC_04592.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_b7dda.dir\\Debug\\cmTC_b7dda.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_b7dda.dir\\Debug\\cmTC_b7dda.tlog\\unsuccessfulbuild".
+          Creating "cmTC_04592.dir\\Debug\\cmTC_04592.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_04592.dir\\Debug\\cmTC_04592.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_b7dda.dir\\Debug\\\\" /Fd"C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6awof2\\cmTC_b7dda.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_04592.dir\\Debug\\\\" /Fd"C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o693w0\\cmTC_04592.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35220 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_b7dda.dir\\Debug\\\\" /Fd"C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6awof2\\cmTC_b7dda.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /Fo"cmTC_04592.dir\\Debug\\\\" /Fd"C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o693w0\\cmTC_04592.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6awof2\\Debug\\cmTC_b7dda.exe" /INCREMENTAL /ILK:"cmTC_b7dda.dir\\Debug\\cmTC_b7dda.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-6awof2/Debug/cmTC_b7dda.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-6awof2/Debug/cmTC_b7dda.lib" /MACHINE:X64  /machine:x64 cmTC_b7dda.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_b7dda.vcxproj -> C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6awof2\\Debug\\cmTC_b7dda.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o693w0\\Debug\\cmTC_04592.exe" /INCREMENTAL /ILK:"cmTC_04592.dir\\Debug\\cmTC_04592.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-o693w0/Debug/cmTC_04592.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/12_11_2025/openGL_examples/build/CMakeFiles/CMakeScratch/TryCompile-o693w0/Debug/cmTC_04592.lib" /MACHINE:X64  /machine:x64 cmTC_04592.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_04592.vcxproj -> C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o693w0\\Debug\\cmTC_04592.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_b7dda.dir\\Debug\\cmTC_b7dda.tlog\\unsuccessfulbuild".
-          Touching "cmTC_b7dda.dir\\Debug\\cmTC_b7dda.tlog\\cmTC_b7dda.lastbuildstate".
-        Done Building Project "C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-6awof2\\cmTC_b7dda.vcxproj" (default targets).
+          Deleting file "cmTC_04592.dir\\Debug\\cmTC_04592.tlog\\unsuccessfulbuild".
+          Touching "cmTC_04592.dir\\Debug\\cmTC_04592.tlog\\cmTC_04592.lastbuildstate".
+        Done Building Project "C:\\12_11_2025\\openGL_examples\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o693w0\\cmTC_04592.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
@@ -1884,7 +1875,6 @@ events:
         - "C:\\Users\\MC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\MC\\.dotnet\\tools"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Program Files\\Azure Data Studio\\bin"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Git\\cmd"
         - "C:\\ghcup\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
@@ -2106,7 +2096,6 @@ events:
         - "C:\\Users\\MC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\MC\\.dotnet\\tools"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Program Files\\Azure Data Studio\\bin"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Git\\cmd"
         - "C:\\ghcup\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"
@@ -2320,7 +2309,6 @@ events:
         - "C:\\Users\\MC\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\MC\\.dotnet\\tools"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-        - "C:\\Program Files\\Azure Data Studio\\bin"
         - "C:\\Users\\MC\\AppData\\Local\\Programs\\Git\\cmd"
         - "C:\\ghcup\\bin"
         - "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\bin"

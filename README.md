@@ -7,6 +7,10 @@ A first person view game in a 3D world that supports navigation, clicking and co
 
 ## Methodology
 Use Visual studio or jetbrains
+- modify
+- adapt
+- recompile
+  
 ## Results
 
 ## Conclusions
